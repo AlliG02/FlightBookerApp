@@ -12,6 +12,7 @@ A simple terminal-based flight booking system written in C++ with SQLite. Users 
 
 First, make sure you have `g++` and `sqlite3` installed.
 
+Then run the following in the command line.
 ```bash
 make
 ./FlightBookingApp
