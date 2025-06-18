@@ -1,6 +1,6 @@
 # FlightBookingApp ✈️
 
-A simple terminal-based flight booking system written in C++ with SQLite. Users can list available flights, book a seat, check their bookings, and cancel them. Great for showcasing basic CRUD operations and DB integration.
+A simple terminal-based flight booking system written in C++ with SQLite. Users can list available flights, book a seat, check their bookings, and cancel them.
 
 ## Tech
 
